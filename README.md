@@ -18,16 +18,20 @@ OS：Windows 11
 ```
 
 1.testフォルダ内にタイトル名が整理されていない状態で格納。
+
 <img src="title\title-001.png" width="50%">
 
 2.スクリプト実行後、タイトルを変更し拡張子ごとに連番を割り当て。
+
 <img src="title\title-002.png" width="50%">
 
 3.タイトル名が整理されていないファイルを追加。
+
 <img src="title\title-003.png" width="50%">
 
 4.スクリプト実行後、追加分の変更を実施。
 すでにあるファイルの番号から連番をスタートするため、更新日時による影響はなし。
+
 <img src="title\title-004.png" width="50%">
 
 
